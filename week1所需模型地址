@@ -1,0 +1,2 @@
+#使用关键点模型需要提前下载此模型,并解压得到shape_predictor_68_face_landmarks.dat
+#http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
